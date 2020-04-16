@@ -1,0 +1,6 @@
+name = "cloudflare-fullstack"
+type = "javascript"
+account_id = "1861d5308c3e720bbd72ac2a9535c86a"
+workers_dev = true
+route = ""
+zone_id = ""
